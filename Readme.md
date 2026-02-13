@@ -1,3 +1,3 @@
-[Artifacts](Artifacts.md)
-[Scrum](Scrum.md)
-[Alignment](Alignment.md)
+- [Artifacts](Artifacts.md)
+- [Scrum](Scrum.md)
+- [Alignment](Alignment.md)
